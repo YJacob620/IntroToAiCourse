@@ -1,0 +1,18 @@
+Model Performance on Test Set:
+Accuracy: 0.86159
+
+Confusion Matrix:
+        Predicted
+            Cat  Dog
+Actual Cat  873  138
+       Dog  142  870
+
+Per-class metrics:
+  Cat:
+    Precision: 0.86010
+    Recall: 0.86350
+    F1-score: 0.86180
+  Dog:
+    Precision: 0.86310
+    Recall: 0.85968
+    F1-score: 0.86139
